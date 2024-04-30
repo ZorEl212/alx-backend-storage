@@ -1,0 +1,2 @@
+// Insert a document to DB
+db.collection.insertOne({"name": "Holberton school"})
