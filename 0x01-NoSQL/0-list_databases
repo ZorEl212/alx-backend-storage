@@ -1,3 +1,4 @@
+// Show all databases on the system
 show dbs
 
 
